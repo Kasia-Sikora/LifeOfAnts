@@ -15,4 +15,4 @@ In an Ant colony there are four different castes: Workers, Soldiers, Drones, and
         To compile: mvn javafx:compile
         To run:     mvn javafx:run
         
-<img src="https://raw.githubusercontent.com/Kasia-Sikora/LifeOfAnts/master/src/main/resources/Screenshot.png?token=AMREBIFNUIURJ5V4ILSXOXC63ITOA" width="75%" height="75%">
+<img src="https://raw.githubusercontent.com/Kasia-Sikora/LifeOfAnts/master/src/main/resources/Screenshot.png?token=AMREBIHVZ475GABU63EV5LK63IYOU" width="75%" height="75%">
