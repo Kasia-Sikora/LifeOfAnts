@@ -10,11 +10,12 @@ In an Ant colony there are four different castes: Workers, Soldiers, Drones, and
             needed to get to her (write a function for it!).
           - The Workers (GREEN) normally make one step randomly in one of the four directions.
           - The Soldiers (BLUE) normally just “patrol” close to their starting points; this means 
-            that in a 4-cycle they step one towards North, then East, South, and West, and then they start the cycle again.
+            that in a 4-cycle they step one towards North, then East, South, and West, and then they 
+            start the cycle again.
           - The Drones (PINK) always try to make one step towards the Queen. When they get 3 steps close, 
             they have a chance that the Queen is in the mood of mating. In this happy case they say “HALLELUJAH”, 
-            stay there for 10 timesteps, and after that they are kicked off to a random point with the distance of 
-            100 steps. If they do not have luck, they say “D’OH”, and are kicked 100 steps away instantly.
+            stay there for 10 timesteps, and after that they are kicked off to a random point with the distance 
+            of 100 steps. If they do not have luck, they say “D’OH”, and are kicked 100 steps away instantly.
         2. The Queen’s mating mood is following this rule: after a successful mating she sets a countdown 
             timer (starting from some time between 100 and 200 timesteps) to get in the mood again. Tip: at
             first you can skip this part and set the Queen’s mood randomly.
