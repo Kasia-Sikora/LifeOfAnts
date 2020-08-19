@@ -9,7 +9,7 @@ in each timestep, according to a caste-specific rule:
     <li>The Queen (RED) sits in the origo and does not move.</li>
     <ul>
         <li>All the Ants are aware of their distance from the Queen which is the number of steps
-            needed to get to her (write a function for it!).</li>
+            needed to get to her.</li>
         <li>The Workers (GREEN) normally make one step randomly in one of the four directions.</li>
       <li>The Soldiers (BLUE) normally just “patrol” close to their starting points; this means 
         that in a 4-cycle they step one towards North, then East, South, and West, and then they 
