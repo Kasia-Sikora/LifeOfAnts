@@ -28,7 +28,7 @@ in each timestep, according to a caste-specific rule:
 </ol>
 
 
-To compile: mvn javafx:compile
+To compile: mvn javafx:compile<br>
 To run:     mvn javafx:run
         
 <img src="https://raw.githubusercontent.com/Kasia-Sikora/LifeOfAnts/master/src/main/resources/Screenshot.png?token=AMREBIFIY7RAGR6TCDMF56S63JIUQ" width="75%" height="75%">
